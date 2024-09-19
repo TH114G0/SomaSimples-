@@ -27,7 +27,7 @@ Antes de começar, certifique-se de ter o [JDK](https://www.oracle.com/java/tech
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/somasimples.git
+    git clone https://github.com/TH114G0/SomaSimples-.git
     ```
 
 2. Navegue até o diretório do projeto:
@@ -59,3 +59,9 @@ Informe o valor que deseja inserir: 15
 [5, 10, 15] soma desses valores é = 30
 ----------------------------------------
 Deseja continuar? (s/n)
+```
+## Contribuição
+**Contribuições** são bem-vindas! Sinta-se à vontade para enviar pull requests e abrir issues para melhorias ou correções.
+
+**Licença**
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
